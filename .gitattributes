@@ -1,1 +1,4 @@
 *.uasset binary
+*.png binary
+*.uplugin text
+*.md text
