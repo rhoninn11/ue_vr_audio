@@ -1,4 +1,4 @@
-## Simple prototyping visuals
+## Simple audio vr
 
 ![baner](Resources/Icon128.png)
 
